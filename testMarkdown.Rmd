@@ -2,9 +2,7 @@
 title: "Bird"
 author: "Emma"
 date: '2024-06-24'
-output: 
-html_document:
-keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
